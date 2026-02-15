@@ -1,4 +1,4 @@
-# 📖 Rust Book Notes Template
+# 📖 Rust Book Notes
 
 This repository contains a **complete template for tracking your learning from [The Rust Programming Language Book](https://doc.rust-lang.org/book/)**.
 
