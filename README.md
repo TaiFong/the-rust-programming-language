@@ -23,9 +23,9 @@ It’s designed so **you can fork this repo and immediately start taking notes, 
 
 Use the checkboxes to track your progress through the book:
 
-- [ ] Chapter 1 – Getting Started
+- [x] Chapter 1 – Getting Started
     
-- [ ] Chapter 2 – Programming a Guessing Game
+- [x] Chapter 2 – Programming a Guessing Game
     
 - [ ] Chapter 3 – Common Programming Concepts
     
