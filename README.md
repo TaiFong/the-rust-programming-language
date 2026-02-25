@@ -2,18 +2,34 @@
 
 ## Progress
 
-* [x] Chapter 1 – Getting Started
-* [x] Chapter 2 – Programming a Guessing Game
-* [x] Chapter 3 – Common Programming Concepts
-* [ ] Chapter 4 – Understanding Ownership
-* [ ] Chapter 5 – Using Structs to Structure Data
-* [ ] Chapter 6 – Enums and Pattern Matching
-* [ ] Chapter 7 – Packages, Crates, and Modules
-* [ ] Chapter 8 – Common Collections
-* [ ] Chapter 9 – Error Handling
-* [ ] Chapter 10 – Generics, Traits, Lifetimes
-* [ ] Chapter 11 – Testing
-* [ ] Chapter 12+ – Advanced Topics
+
+Use the checkboxes to track your progress through the book:
+
+- [x] Chapter 1 – Getting Started
+    
+- [x] Chapter 2 – Programming a Guessing Game
+    
+- [x] Chapter 3 – Common Programming Concepts
+    
+- [x] Chapter 4 – Understanding Ownership
+    
+- [ ] Chapter 5 – Using Structs to Structure Data
+    
+- [ ] Chapter 6 – Enums and Pattern Matching
+    
+- [ ] Chapter 7 – Managing Growing Projects with Packages, Crates, and Modules
+    
+- [ ] Chapter 8 – Common Collections
+    
+- [ ] Chapter 9 – Error Handling
+    
+- [ ] Chapter 10 – Generic Types, Traits, and Lifetimes
+    
+- [ ] Chapter 11 – Writing Automated Tests
+    
+- [ ] Chapter 12+ – Advanced Topics & Projects
+    
+>>>>>>> 4c2c7dc (feat(chapter04): add ownership notes and borrowing examples)
 
 ---
 
