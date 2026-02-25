@@ -28,8 +28,7 @@ Use the checkboxes to track your progress through the book:
 - [ ] Chapter 11 – Writing Automated Tests
     
 - [ ] Chapter 12+ – Advanced Topics & Projects
-    
->>>>>>> 4c2c7dc (feat(chapter04): add ownership notes and borrowing examples)
+
 
 ---
 
