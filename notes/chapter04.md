@@ -1,4 +1,4 @@
-# Chapter 4 – Understanding Ownership (One Pager)
+# Chapter 4 – Understanding Ownership
 
 ## Overview
 
