@@ -13,7 +13,7 @@ Use the checkboxes to track your progress through the book:
     
 - [x] Chapter 4 – Understanding Ownership
     
-- [ ] Chapter 5 – Using Structs to Structure Data
+- [x] Chapter 5 – Using Structs to Structure Data
     
 - [ ] Chapter 6 – Enums and Pattern Matching
     
