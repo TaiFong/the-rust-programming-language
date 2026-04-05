@@ -15,7 +15,7 @@ Use the checkboxes to track your progress through the book:
     
 - [x] Chapter 5 – Using Structs to Structure Data
     
-- [ ] Chapter 6 – Enums and Pattern Matching
+- [x] Chapter 6 – Enums and Pattern Matching
     
 - [ ] Chapter 7 – Managing Growing Projects with Packages, Crates, and Modules
     
